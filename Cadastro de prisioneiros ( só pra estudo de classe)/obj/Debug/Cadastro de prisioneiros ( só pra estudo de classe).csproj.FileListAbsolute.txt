@@ -1,0 +1,24 @@
+C:\Users\Usuario\Pictures\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\bin\Debug\Cadastro de prisioneiros ( só pra estudo de classe).exe.config
+C:\Users\Usuario\Pictures\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\bin\Debug\Cadastro de prisioneiros ( só pra estudo de classe).exe
+C:\Users\Usuario\Pictures\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\bin\Debug\Cadastro de prisioneiros ( só pra estudo de classe).pdb
+C:\Users\Usuario\Pictures\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro de prisioneiros ( só pra estudo de classe).csprojAssemblyReference.cache
+C:\Users\Usuario\Pictures\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro_de_prisioneiros___só_pra_estudo_de_classe_.Form1.resources
+C:\Users\Usuario\Pictures\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro_de_prisioneiros___só_pra_estudo_de_classe_.Properties.Resources.resources
+C:\Users\Usuario\Pictures\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro de prisioneiros ( só pra estudo de classe).csproj.GenerateResource.cache
+C:\Users\Usuario\Pictures\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro de prisioneiros ( só pra estudo de classe).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro de prisioneiros ( só pra estudo de classe).exe
+C:\Users\Usuario\Pictures\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro de prisioneiros ( só pra estudo de classe).pdb
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\bin\Debug\Cadastro de prisioneiros ( só pra estudo de classe).exe.config
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\bin\Debug\Cadastro de prisioneiros ( só pra estudo de classe).exe
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\bin\Debug\Cadastro de prisioneiros ( só pra estudo de classe).pdb
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro de prisioneiros ( só pra estudo de classe).csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro_de_prisioneiros___só_pra_estudo_de_classe_.Properties.Resources.resources
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro de prisioneiros ( só pra estudo de classe).csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro de prisioneiros ( só pra estudo de classe).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro de prisioneiros ( só pra estudo de classe).exe
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro de prisioneiros ( só pra estudo de classe).pdb
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro_de_prisioneiros___só_pra_estudo_de_classe_.CadastroPrisioneiro.resources
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro_de_prisioneiros___só_pra_estudo_de_classe_.Resources.Menu_de_inicio.resources
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro_de_prisioneiros___só_pra_estudo_de_classe_.Aplicações.AbaTrasito.resources
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro_de_prisioneiros___só_pra_estudo_de_classe_.Aplicações.PM_RP_.resources
+C:\Users\Usuario\Documents\Saved Pictures\CadastroPrisioneiros\Cadastro de prisioneiros ( só pra estudo de classe)\obj\Debug\Cadastro_de_prisioneiros___só_pra_estudo_de_classe_.Aplicações.PM_GrpAE_.resources
